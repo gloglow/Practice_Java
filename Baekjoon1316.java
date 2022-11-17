@@ -1,3 +1,6 @@
+//BAEKJOON  PROBLEM - https://www.acmicpc.net/problem/1292
+//20221116
+
 package java_practice;
 import java.io.*;
 
