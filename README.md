@@ -1,5 +1,5 @@
 # java_practice
 
-problem solving by using java
-
-https://www.acmicpc.net/
+Programming problem solving practice by using java.
+problems from...
+https://www.acmicpc.net/ (Baekjoon Online Judge)
